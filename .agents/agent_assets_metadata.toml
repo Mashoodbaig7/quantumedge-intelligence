@@ -1,0 +1,14 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "kOMawIq9RQ0C2HmUPTbrR"
+uri = "file://artifacts/quantumedge/src/assets/hero-bg.png"
+type = "image"
+title = "abstract AI circuit data flow"
+
+[[generated]]
+id = "PNOw9K0FcaYGXV0KDgAsT"
+uri = "file://artifacts/quantumedge/src/assets/services-tech.png"
+type = "image"
+title = "services automation tech"
